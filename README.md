@@ -16,3 +16,7 @@ manage.py runserver
 
 ## connexion au brooker
 pip install paho-mqtt
+
+##
+API pour:
+https://c64-client.herokuapp.com/
