@@ -1,0 +1,13 @@
+django
+gunicorn
+django-heroku
+requests
+djangorestframework 
+djongo
+django-cors-headers
+dnspython
+pymongo[snappy,gssapi,srv,tls]
+jwt
+pyjwt
+sqlparse==0.2.4
+paho-mqtt

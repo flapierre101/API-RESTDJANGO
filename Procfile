@@ -1,0 +1,1 @@
+web: cd ./RESTAPI && gunicorn RESTAPI.wsgi
